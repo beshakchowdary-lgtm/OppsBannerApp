@@ -1,4 +1,5 @@
-public class Uc4 {
+public class UC6
+    {
 
     public static void main(String[] args) {
         // UC6: Building the array by invoking static helper methods.
